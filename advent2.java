@@ -23,6 +23,7 @@ public class advent2
         }
         String[] current;
         int Safe = 0; 
+        System.out.println(stuff.size());
         
         for(int i = 0; i < stuff.size(); i++) {
 
