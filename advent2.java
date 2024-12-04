@@ -76,7 +76,7 @@ public class advent2
                             break;
                         }
                     }
-                    if(dampener = true) 
+                    if(dampener == true) 
                     {
                         for(int f = 0; f < stuff.size()-1; f++) 
                         {
